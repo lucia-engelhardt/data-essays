@@ -1,9 +1,11 @@
-# Data Essay
+# The Tempo of PTA
 Data Essay for PTA mini project
 
-## First viz
+## Intro
 
-This one is embedded as an iframe.
+My aim for this project is to visualize the tempo of each of PTA's films by comparing and compiling data on shot length, scene length, and movie length. Creating a comprehensive breakdown of tempo in each of PTA's films will allow the PTA-annotated project to bolster its annotations. Below are two essays written on film tempo and the important role it plays in audience perception of time in film:
+
+<iframe title="Impact of shot length and motion on cinematic tempo" src="
 
 <iframe title="Gender pay gap" aria-label="Range Plot" id="datawrapper-chart-Tv80T" src="https://datawrapper.dwcdn.net/Tv80T/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="463" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
 </script>
