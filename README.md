@@ -3,12 +3,12 @@ Data Essay for PTA mini project
 
 ## Intro
 
-My aim for this project is to visualize the tempo of each of PTA's films by comparing and compiling data on shot length, scene length, and movie length. Creating a comprehensive breakdown of tempo in each of PTA's films will allow the PTA-annotated project to bolster its annotations. Below are two essays written on film tempo and the important role it plays in audience perception of time in film:
+My aim for this project is to visualize the tempo of each of PTA's films by comparing and compiling data on shot, scene, and movie lengths. Creating a comprehensive breakdown of tempo in each of PTA's films will allow the PTA-annotated project to bolster its annotations. Below are two essays written on film tempo and the important role it plays in audience perception of time in film:
 
-<iframe title="Impact of shot length and motion on cinematic tempo" src="
+[View Impact of shot length and motion on cinematic tempo](https://kth.diva-portal.org/smash/get/diva2:1704346/FULLTEXT01.pdf)
 
-<iframe title="Gender pay gap" aria-label="Range Plot" id="datawrapper-chart-Tv80T" src="https://datawrapper.dwcdn.net/Tv80T/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="463" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
-</script>
+[View Study of Shot Length and Motion as Contributing Factors to Movie Tempo](https://dl.acm.org/doi/pdf/10.1145/354384.354530)
+
 
 My visualization shows...
 
