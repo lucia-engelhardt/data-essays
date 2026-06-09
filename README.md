@@ -1,4 +1,4 @@
-# The Tempo of PTA
+# The PTA Tempo
 Data Essay for PTA mini project
 
 ## Intro
@@ -34,7 +34,7 @@ Below are some of the graphs I've made so far:
 ![Breakdwon of all film scenes length + total #](Presentation/Slide11.jpg)
 ![Breakdwon of the average scene length across all films](Presentation/Slide12.jpg)
 
-I think these graphs are interesting because they are representative of the different opinions of what constitutes as a scene in the opinion of the people diviying them up. I also think that given more data we could start to develop some interesting analysis of trends in film length affecting number of scenes and length of scenes, etc. 
+I think these graphs are interesting because they are representative of the different opinions of what constitutes a scene in the opinion of the people dividing them up. I also think that given more data we could start to develop some interesting analysis of trends in film length affecting number of scenes and length of scenes, etc. 
 
 ## Future Data Visualizations
 
@@ -45,4 +45,8 @@ Below are some hand-drawn graphs I hope to create if I continue on with this pro
 ![More graph ideas plus a strip plot](Presentation/IMG_9353 2.png)
 
 ![Another strip plot graph](Presentation/IMG_9354 2.png)
+
+## Continuing Research
+
+I would like to work with computer vision and also acquire the length of every shot in PTA's work. This way, I can create visualizations giving a better breakdown of how time is operating within PTA's films. I am planning on using Distant Viewer Explorer to accomplish this. I also would potentially like to create more scene breakdown graphs comparing the scene times I've been provided and the "official" scene times using scripts and watching the films. 
 
