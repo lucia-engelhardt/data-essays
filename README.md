@@ -40,11 +40,11 @@ I think these graphs are interesting because they are representative of the diff
 
 Below are some hand-drawn graphs I hope to create if I continue on with this project:
 
-![More visually engaging way to present breakdown of film scenes length](Presentation/IMG_9352-2.png)
+![More visually engaging way to present breakdown of film scenes length](Presentation/IMG_9352.png)
 
-![More graph ideas plus a strip plot](Presentation/IMG_9353-2.png)
+![More graph ideas plus a strip plot](Presentation/IMG_9353.png)
 
-![Another strip plot graph](Presentation/IMG_9354-2.png)
+![Another strip plot graph](Presentation/IMG_9354.png)
 
 ## Continuing Research
 
