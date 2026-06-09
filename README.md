@@ -7,9 +7,9 @@ My aim for this project is to visualize the tempo of each of PTA's films by comp
 
 [View Impact of Shot Length and Motion on Cinematic Tempo](https://kth.diva-portal.org/smash/get/diva2:1704346/FULLTEXT01.pdf) essentially explains the role of tempo in film and also conduct their own study of action films. The conclusion the essay reached was that when shot lengths are shorter, the viewer will perceive the film as having a higher tempo. 
 
-[View Study of Shot Length and Motion as Contributing Factors to Movie Tempo](https://dl.acm.org/doi/pdf/10.1145/354384.354530) conducts a study to demonstrate how tempo is used by filmmakers. The study tests the ability of machine learning to see if the machine learning is able to gain important information on the film. The study was successful and thus, the authors conclude that shot length and motion can be employed not only to change the tempo of a film but also to convey meaningful information to its viewers. 
+[View Study of Shot Length and Motion as Contributing Factors to Movie Tempo](https://dl.acm.org/doi/pdf/10.1145/354384.354530) conducts a study to demonstrate how tempo is used by filmmakers. The study tests the ability of machine learning to see if the machine learning is able to gain important information on the film. The study was successful, and thus the authors conclude that shot length and motion can be employed not only to change the tempo of a film but also to convey meaningful information to its viewers. 
 
-Having a part of the PTA-annotated website dedicated to tempo would not only help to improve viewers' understanding of the inner workings of film but also may provide them further insight on the messages of the films. 
+Having a part of the PTA-annotated website dedicated to tempo would not only help to improve viewers' understanding of the inner workings of film but also may provide them further insight into the messages of the films. 
 
 ## The Data
 
@@ -34,7 +34,7 @@ Below are some of the graphs I've made so far:
 ![Breakdwon of all film scenes length + total #](Presentation/Slide11.jpg)
 ![Breakdwon of the average scene length across all films](Presentation/Slide12.jpg)
 
-I think these graphs are interesting because they are representative of the different opinions of what constitutes a scene in the opinion of the people dividing them up. I also think that given more data we could start to develop some interesting analysis of trends in film length affecting number of scenes and length of scenes, etc. 
+I think these graphs are interesting because they are representative of the different opinions of what constitutes a scene in the opinion of the people dividing them up. I also think that given more data, we could start to develop some interesting analysis of trends in film length affecting number of scenes and length of scenes, etc. 
 
 ## Future Data Visualizations
 
@@ -48,5 +48,5 @@ Below are some hand-drawn graphs I hope to create if I continue on with this pro
 
 ## Continuing Research
 
-I would like to work with computer vision and also acquire the length of every shot in PTA's work. This way, I can create visualizations giving a better breakdown of how time is operating within PTA's films. I am planning on using Distant Viewer Explorer to accomplish this. I also would potentially like to create more scene breakdown graphs comparing the scene times I've been provided and the "official" scene times using scripts and watching the films. 
+I would like to work with computer vision and also acquire the length of every shot in PTA's work. This way, I can create visualizations that provide a clearer breakdown of how time operates within PTA's films. I am planning on using Distant Viewer Explorer to accomplish this. I also want to create more scene breakdown graphs comparing the scene times I've been provided and the "official" scene times using scripts and watching the films. 
 
