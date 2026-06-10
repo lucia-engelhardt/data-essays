@@ -1,4 +1,4 @@
-# Why Manipulate Time?: The Tempo of PTA's Films
+# Shapping Viewer's Reality: The Tempo of PTA's Films
 
 ## Intro
 
