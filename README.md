@@ -1,15 +1,16 @@
-# The PTA Tempo
+# Why Manipulate Time?
+## The Tempo of PTA's Films
 Data Essay for PTA mini project
 
 ## Intro
 
 My aim for this project is to visualize the tempo of each of PTA's films by comparing and compiling data on shot, scene, and movie lengths. Creating a comprehensive breakdown of tempo in each of PTA's films will allow the PTA-annotated project to bolster its annotations. Below are two essays written on film tempo and the important role it plays in audience perception of time in film:
 
-[View Impact of Shot Length and Motion on Cinematic Tempo](https://kth.diva-portal.org/smash/get/diva2:1704346/FULLTEXT01.pdf) essentially explains the role of tempo in film and also conduct their own study of action films. The conclusion the essay reached was that when shot lengths are shorter, the viewer will perceive the film as having a higher tempo. 
+[View Impact of Shot Length and Motion on Cinematic Tempo](https://kth.diva-portal.org/smash/get/diva2:1704346/FULLTEXT01.pdf) essentially explains the role of tempo in film and also conduct their own study of action films. The conclusion the essay reaches is that when shot lengths are shorter, the viewer will perceive the film as having a higher tempo. 
 
-[View Study of Shot Length and Motion as Contributing Factors to Movie Tempo](https://dl.acm.org/doi/pdf/10.1145/354384.354530) conducts a study to demonstrate how tempo is used by filmmakers. The study tests the ability of machine learning to see if the machine learning is able to gain important information on the film. The study was successful, and thus the authors conclude that shot length and motion can be employed not only to change the tempo of a film but also to convey meaningful information to its viewers. 
+[View Study of Shot Length and Motion as Contributing Factors to Movie Tempo](https://dl.acm.org/doi/pdf/10.1145/354384.354530) conducts a study to demonstrate how tempo is used by filmmakers. The study tests the ability of machine learning to see if the machine learning is able to gain important information about the film. The study was successful, and thus the authors conclude that shot length and motion can be employed not only to change the tempo of a film but also to convey meaningful information to its viewers. 
 
-Having a part of the PTA-annotated website dedicated to tempo would not only help to improve viewers' understanding of the inner workings of film but also may provide them further insight into the messages of the films. 
+Having a part of the PTA-annotated website dedicated to tempo would not only help to improve viewers' understanding of the inner workings of film but also may provide them further insight into the messages of the films. In our film analysis workshop, we learned how important the way things are shot allow the audience to gain information/make assumptions about a film (even when only given two minutes out of a two-hour film). A fast tempo can make the audience feel nervous, discombobulated, etc. While a slow tempo can make things feel more dramatic or mundane given the context. This then can make the viewer think: how does PTA use tempo to make his audiences feel? Is he successful with his use of tempo? Why do some of PTA's films have quicker/slower tempos?
 
 ## The Data
 
