@@ -2,7 +2,7 @@
 
 ## Intro
 
-My aim for this project is to visualize the tempo of each of PTA's films by comparing and compiling data on shot, scene, and movie lengths. Creating a comprehensive breakdown of tempo in each of PTA's films will allow the PTA-annotated project to bolster its annotations. Below are two essays written on film tempo and the important role it plays in audience perception of time in film:
+My aim for this project is to visualize the tempo of each of PTA's films by comparing and compiling data on shot, scene, and movie lengths. Creating a comprehensive breakdown of tempo in each of PTA's films will allow the PT-annotated project to bolster its annotations. Below are two essays written on film tempo and the important role it plays in audience perception of time in film:
 
 [View Impact of Shot Length and Motion on Cinematic Tempo](https://kth.diva-portal.org/smash/get/diva2:1704346/FULLTEXT01.pdf) essentially explains the role of tempo in film and also conducts its own study of action films. The conclusion the essay reaches is that when shot lengths are shorter, the viewer will perceive the film as having a higher tempo. 
 
