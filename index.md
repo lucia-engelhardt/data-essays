@@ -31,9 +31,9 @@ In order to capture the ASL of PT’s films, I used an open-source code from Dis
 
 ## The Rhythm of PT through PT-Annotated Screenshots
 
-[PT-Annotated Screenshots](graph/finished-ss-graph(2).html)
+[PT-Annotated Screenshots](graph/finished-ss-graph(3).html)
 
-[The Shot Lengths of PT's Filmography](graph/asl-finished-scatterplot.html)
+[The Shot Lengths of PT's Filmography](graph/asl-finished-scatterplot(1).html)
 
 
 
