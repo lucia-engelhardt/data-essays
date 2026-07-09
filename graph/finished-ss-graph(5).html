@@ -36,8 +36,7 @@
           throw error;
       }
       const el = document.getElementById('vis');
-      //vegaEmbed("#vis", spec, embedOpt)//
-      vegaEmbed('#vis', spec, { actions: false });
+      vegaEmbed("#vis", spec, embedOpt)
         .catch(error => showError(el, error));
     })(vegaEmbed);
 
