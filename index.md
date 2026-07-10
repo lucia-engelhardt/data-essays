@@ -31,11 +31,11 @@ In order to capture the ASL of PT’s films, I used an open-source code from Dis
 
 ## The Rhythm of PT through PT-Annotated Screenshots
 
-[PT-Annotated Screenshots](graph/finished-ss-graph(7).html)
+[PT-Annotated Screenshots](graph/finished-ss-graph.html)
 
 [The Shot Lengths of PTA's Filmography](graph/asl-finished-scatterplot(2).html)
 
-[ASL of PTA's Films](graph/asl-final-scatterplot(8).html)
+[ASL of PTA's Films](graph/asl-final-scatterplot.html)
 
 
 
