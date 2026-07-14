@@ -33,7 +33,7 @@ In order to capture the ASL of PT’s films, I used an open-source code from Dis
 
 [PT-Annotated Screenshots](graph/finished-ss-graph.html)
 
-[The Shot Lengths of PTA's Filmography](graph/asl-final-scatterplot(8).html)
+[The Shot Lengths of PTA's Filmography](graph/finished-ss-graph(9).html)
 
 [ASL of PTA's Films](graph/asl-final-scatterplot.html)
 
